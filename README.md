@@ -23,7 +23,6 @@
           <li><a href="./pages/experience.md">Experience</a></li>
           <li><a href="./pages/projects.md">Projects</a></li>
           <li><a href="./pages/qualifications.md">Skills & Qualifications</a></li>
-          <li><a href="./pages/extracurriculars.md">Honors & Extracurriculars</a></li>
         </ul>
       </td>
     </tr>
