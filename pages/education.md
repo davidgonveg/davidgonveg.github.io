@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>
-      <b>Master degree in Secondary School Education</b> | Graduated June 2019<br />
+      <b>Master's degree in Secondary School Education</b> | Graduated June 2019<br />
       University of Valladolid (UVa), Spain<br />
     </td>
     <td><image alt="SU" src="../assets/images/UVA_logo.png" /></td>
