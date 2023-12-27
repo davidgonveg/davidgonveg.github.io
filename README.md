@@ -1,21 +1,20 @@
 # Data Scientist - AI
 
 ### Education
-Logotipo de VIU - Universidad Internacional de Valencia
-VIU - Universidad Internacional de ValenciaVIU - Universidad Internacional de Valencia
-Master's degree, Inteligencia artificialMaster's degree, Inteligencia artificial
-ene. 2023 - ene. 2024ene. 2023 - ene. 2024
+*Master's degree, Inteligencia artificial
+Universidad Internacional de Valencia
+VIU - Universidad Internacional de Valencia
+ene. 2023 - ene. 2024
 Aptitudes: Procesamiento de lenguaje natural · Python · Inteligencia artificial · Análisis de datos · Ciencia de datos · IA generativaAptitudes: Procesamiento de lenguaje natural · Python · Inteligencia artificial · Análisis de datos · Ciencia de datos · IA generativa
-Logotipo de Universidad de Valladolid
-Universidad de ValladolidUniversidad de Valladolid
+
+Universidad de Valladolid
 Grado, FísicaGrado, Física
-2013 - 20172013 - 2017
-Titulación: 7,45Titulación: 7,45
+2013 - 2017
 Aptitudes: C++ · Física · Resolución de problemas · Ciencias de la computación · Pensamiento críticoAptitudes: C++ · Física · Resolución de problemas · Ciencias de la computación · Pensamiento crítico
-Logotipo de Universidad de Valladolid
-Universidad de ValladolidUniversidad de Valladolid
+
+Universidad de Valladolid
 Máster , Educación secundariaMáster , Educación secundaria
-2018 - 20192018 - 2019
+2018 - 2019
 MÁSTER EN PROFESOR DE EDUCACIÓN SECUNDARIA OBLIGATORIA Y BACHILLERATO, FORMACIÓN PROFESIONAL Y ENSEÑANZAS DE IDIOMAS
 
 
