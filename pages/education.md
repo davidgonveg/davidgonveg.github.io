@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td width="80%">
-      <b>Master of Science in Artificial Intelligence</b> | Anticipated March 2023<br />
+      <b>Master of Science in Artificial Intelligence</b> | Anticipated March 2024<br />
       International University of Valencia (VIU), Spain<br />
     </td>
     <td><image alt="SU" src="../assets/images/VIU_logo.png" /></td>
