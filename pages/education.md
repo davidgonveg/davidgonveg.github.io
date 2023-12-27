@@ -1,7 +1,7 @@
 [Back to main page](./../README.md)
 
 <h1 align="center">Education</h1>
-<table>
+<table align="center">
   <tr>
     <td width="80%">
       <b>Master of Science in Artificial Intelligence</b> | Anticipated March 2024<br />
