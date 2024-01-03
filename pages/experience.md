@@ -2,7 +2,7 @@
 
 <h1 align="center">Experience</h1>
 <table>
-<!--   <tr>
+  <tr>
     <td width="80%">
       <b>Software Engineer</b> | October 2016 - July 2017<br />
       AVL Iberica<br />
@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td><image alt="Votegrity" src="../assets/images/AVL_logo.jpeg" /></td>
-  </tr> -->
+  </tr>
   <tr>
     <td width="80%">
       <b>Maths and Tech Teacher</b> | September 2020 - Now<br />
