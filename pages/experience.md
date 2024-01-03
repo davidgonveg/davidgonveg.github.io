@@ -41,7 +41,7 @@
         <li>Invoicing · Accounting · Small Business · Employee Management · Customer Relations</li>
       </ul>
     </td>
-    <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
+    <td><image alt="SU" src="../assets/images/GRUSANCHEZ_logo.jpeg" /></td>
   </tr>
 </table>
 
