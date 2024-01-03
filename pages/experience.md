@@ -4,56 +4,44 @@
 <table>
 <!--   <tr>
     <td width="80%">
-      <b>Software Engineer</b> | July 2022 - Present<br />
-      Votegrity<br />
+      <b>Software Engineer</b> | October 2016 - July 2017<br />
+      AVL Iberica<br />
       <ul>  
-        <li>Part time software development</li>
-        <li>Implementing functionality for election administration tool</li>
-        <li>Instantiated new virtual machine by upgrading existing software from scratch</li>
-        <li>React, JavaScript, Python, Azure, VS Code</li>
+        <li>Software development</li>
+        <li>Design and programming of a tool for electrical and pneumatic circuit design.</li>
+        <li>Programming support for the development of a dynamic materials database.</li>
+        <li>Development of a new platform for drawing schematic diagrams. Integration of the tool with the database.</li>
+        <li>Visual Basic for Applications (VBA) · Visio · Software Development · Project Management</li>
       </ul>
     </td>
-    <td><image alt="Votegrity" src="../assets/images/votegrity-branding-dark.jpg" /></td>
+    <td><image alt="Votegrity" src="../assets/images/AVL_logo.jpeg" /></td>
   </tr> -->
   <tr>
     <td width="80%">
-      <b>Software Engineer Intern</b> | June 2022 - Present<br />
-      T-Mobile<br />
+      <b>Maths and Tech Teacher</b> | September 2020 - Now<br />
+      Eurocolegio Casvi<br />
       <ul>
-        <li>Digital Architecture & Cybersecurity</li>
-        <li>Codified architecture for scalable and automated API authorization assessment</li>
-        <li>Filed patent application for API authorization service</li>
-        <li>TypeScript, JavaScript, SQL, Postman, VS Code, GitLab</li>
+        <li>Maths and Tech Teacher</li>
+        <li>Teaching mathematics and technology.</li>
+        <li>In technology, preparation of innovation projects for technology, programming, and robotics learning.</li>
+        <li>People Management · Secondary Education · Project Planning · Communication</li>
       </ul>
     </td>
-    <td><image alt="T-Mobile" src="../assets/images/tmo-logo.jpg"/></td>
+    <td><image alt="T-Mobile" src="../assets/images/CASVI_logo.jpeg"/></td>
   </tr>
   </tr>
   <tr>
     <td>
-      <b>Tutor, TA, Grader - CSSE</b> | June 2021 - June 2022<br />
-      Seattle University<br />
+      <b>Administrative Assistant</b> | April 2018 - September 2018<br />
+      GRUSANCHEZ-MC S.L.<br />
       <ul>
-        <li>Algorithms and Java programming courses</li>
-        <li>Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs</li>
-        <li>Provided constructive feedback to 100+ students via tutoring and grading</li>
-        <li>Java, IntelliJ, Vim, Emacs, GitHub</li>
+        <li>Administrative Assistant</li>
+        <li>Administrative and organizational tasks for the company (assignment of cranes, scheduling).</li>
+        <li>Invoicing and accounting for the company.</li>
+        <li>Invoicing · Accounting · Small Business · Employee Management · Customer Relations</li>
       </ul>
     </td>
     <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
-  </tr>
-  <tr>
-    <td>
-      <b>Sales Associate</b> | July 2020 - June 2022<br />
-      The Home Depot<br />
-      <ul>
-        <li>Front-line service and store maintainability</li>
-        <li>Interacted w/ customers and vendors, fulfilled online orders, restocked inventory</li>
-        <li>Provided recognizable customer service and consistent help to dozens of coworkers</li>
-        <li>Plumbing department, electric ladder, pipe threader</li>
-      </ul>
-    </td>
-    <td><image alt="THD" src="../assets/images/thd-logo.png" /></td>
   </tr>
 </table>
 
