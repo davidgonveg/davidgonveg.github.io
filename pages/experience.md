@@ -27,7 +27,7 @@
         <li>People Management · Secondary Education · Project Planning · Communication</li>
       </ul>
     </td>
-    <td><image alt="T-Mobile" src="../assets/images/CASVI_logo.jpeg"/></td>
+    <td><image alt="T-Mobile" src="../assets/images/CASVI_logo.png"/></td>
   </tr>
   </tr>
   <tr>
@@ -41,7 +41,7 @@
         <li>Invoicing · Accounting · Small Business · Employee Management · Customer Relations</li>
       </ul>
     </td>
-    <td><image alt="SU" src="../assets/images/GRUSANCHEZ_logo.jpeg" /></td>
+    <td><image alt="SU" src="../assets/images/GRUSANCHEZ_logo.png" /></td>
   </tr>
 </table>
 
