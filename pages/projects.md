@@ -8,7 +8,7 @@
 
 ---
 
-[Handwritten digit recognizer]((https://github.com/davidgonveg/Handwritten_digit_recognizer) | Jan 2024
+[Handwritten digit recognizer](https://github.com/davidgonveg/Handwritten_digit_recognizer) | Jan 2024
 * Description: I will use the MNIST dataset to recognise digits and then, I will make a very simple app to write a number and check what number is and which what probabilty.
 * Skills: Tensorflow, Convolutional Neuronal Networks
 
