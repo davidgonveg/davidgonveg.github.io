@@ -14,6 +14,10 @@
 
 ---
 
+[ChatBot of Barney Stinson](https://github.com/davidgonveg/Barney_Chatbot) | Jan 2024
+* Description: This project involves the creation of a Jupyter notebook that utilizes a dataset containing dialogues from the TV show "How I Met Your Mother." The primary goal is to build a chatbot inspired by the character Barney Stinson using the DialoGPT model.
+* Skills: NLP, Transformers, HuggingFace, Pytorch
 
+---
 
 [Back to main page](./../README.md)
